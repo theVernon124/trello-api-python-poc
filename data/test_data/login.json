@@ -1,0 +1,8 @@
+{
+  "input_data": {
+    "login_method": "password",
+    "email": "thevernon124+ctreacy@gmail.com",
+    "password": "Test1234!",
+    "invalid_login_method": "iamaninvalidauthmethod"
+  }
+}

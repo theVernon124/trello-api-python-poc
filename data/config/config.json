@@ -1,0 +1,10 @@
+{
+  "key": "893c99fd8c927d1589d88d9f6b8ec52d",
+  "token": "f80aab4e08ce83554c35e1002ecd33c183f69f07de1680969b529629c5887a0b",
+  "url_home": "https://trello.com",
+  "url_authentication": "https://trello.com/1/authentication",
+  "url_session": "https://trello.com/1/authorization/session",
+  "url_boards": "https://api.trello.com/1/boards",
+  "url_lists": "https://api.trello.com/1/lists",
+  "url_cards": "https://api.trello.com/1/cards"
+}
